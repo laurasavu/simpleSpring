@@ -1,0 +1,15 @@
+
+@charset "UTF-8";
+
+
+.container{max-width:500px;
+                margin: auto;
+                 background-color:gray;}
+.headertable{
+                background-color :pink;
+                }
+#verticala{
+                background-color :pink;
+    }
+.table{
+        background-color :beige;}
